@@ -1,0 +1,12 @@
+[submodule "erkig"]
+	path = erkig
+	url = https://github.com/TNTTheLagger/erkig.git
+[submodule "nemcsikj"]
+	path = nemcsikj
+	url = https://github.com/TNTTheLagger/nemcsikj.git
+[submodule "banyai_gabor"]
+	path = banyai_gabor
+	url = https://github.com/TNTTheLagger/banyai_gabor.git
+[submodule "csaszar_martin"]
+	path = csaszar_martin
+	url = https://github.com/TNTTheLagger/csaszar_martin.git
